@@ -3,9 +3,9 @@ Situs blog Rust ID (Indonesia) menggunakan Jekyll.
 
 # Jalankan di lokal
 Untuk dapat menalankan situs ini, sama seperti dengan situs Jekyll lainnya:
-1. Install Jekyll: `gem install jekyll`
-2. Fork repo ini ke komputer anda
-3. Pindah ke directory hasil clone dan jalankan `jekyll serve --watch`
+1. Fork repo ini ke komputer anda
+2. Pindah ke directory hasil clone dan install Jekyll: `bundle install`
+3. Jalankan `bundle exec jekyll serve --watch`
 
 Jika menggunakan docker dapat mengikuti panduan: [jekyll/docker](https://github.com/jekyll/docker/wiki/Usage:-Running)
 
