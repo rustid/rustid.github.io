@@ -27,8 +27,6 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
-  
-gem "github-pages", group: :jekyll_plugins
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
