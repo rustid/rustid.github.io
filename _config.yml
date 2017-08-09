@@ -24,8 +24,8 @@ github_username:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
-gems:
+theme: jekyll-theme-dinky
+plugins:
   - jekyll-feed
 
 # Exclude from processing.
